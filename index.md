@@ -11,6 +11,8 @@ Before you get started
 
 ###  What is Rails?
 
+It's a place where I can make a ton of changes! 🚀
+
 Rails is a framework for building web applications and it uses the Ruby programming language. The important thing that differentiates a web application from a web-site is that an application includes a database on the backend that allows it to store and return data over long periods of time. It's likely that most web pages you visit these days are actually web applications.
 
 Rails is also open source means that no one "owns" the Rails framework. While there's a governing body that helps set standards and ensure that it continues to grow and develop with technology, anyone can contribute to it's development. This also means that Rails will always be free to use.
