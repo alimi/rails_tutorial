@@ -46,3 +46,4 @@ exclude:
   - README.md
   - Rakefile
   - lib
+  - vendor
